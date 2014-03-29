@@ -1,0 +1,49 @@
+WRITEUP FORMAT [IN .PDF file] :
+
+--------------------------------------------------
+Please summarize your method:
+
+1) Software Used: -
+
+2) Feature Extraction Process (*) :-  
+
+3) Similarity/Distance Measures (*) :--
+
+3) Classifier (if you have used any standard classifier):-
+
+4) References (if any) :-  
+
+-------------------------------------------------
+Please describe the algorithms in details:
+
+1) Feature Extraction step (*):- (please write in detail)
+
+2) Training Algorithm:
+
+Input Format:-
+Tunable Parameters:-
+Output Format:-
+
+(Now please write the algorithm)
+
+
+3) Validation and Parameter Tuning (*) :
+
+4) Prediction Algorithm:
+
+(Please write the algorithm)
+
+-------------------------------------------------
+Interpretation of results on validation data:
+
+Why do you think your algorithm got the accuracy that it did on the validation data? Are there scope for improvements?
+
+-------------------------------------------------
+
+
+1> (*) :  Sections marked (*) are optional . Explain ony if you have explicitly used these steps. For e.g, there is no need for the Feature Extraction Process section, if you have used the default features.
+
+2> For the Validation and Parameter tuning section, please mention the final values of the parameters used for training (if any). 
+
+
+The final submissions have to be made on the 'Upload files' tab on the website before 11:59 pm on 14 March.
